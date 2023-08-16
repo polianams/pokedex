@@ -2,7 +2,7 @@
 
 ## Descrição da atividade 📝
 
-Bem-vindo ao projeto Pokédex. Este projeto abrange tanto o front-end quanto o back-end e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies.
+A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este projeto abrange tanto o front-end quanto o back-end e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
 
 ## 🎯 Objetivos
 
