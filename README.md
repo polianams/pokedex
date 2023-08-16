@@ -1,12 +1,12 @@
 # 🔍 Pokedex
 
-## Descrição da atividade 📝
+## 📝 Descrição da atividade
 
-A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este é um projeto Full Stack, ou seja, abrange tanto o front-end quanto o back-end e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
+A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este é um projeto **Full Stack**, ou seja, abrange tanto o **Front-end** quanto o **Back-end** e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
 
 ## 🎯 Objetivos
 
-- Consumo da API do Pokémon para obter dados: [PokeAPI](https://pokeapi.co/);
+- Consumo da API do Pokémon para obter dados [PokeAPI](https://pokeapi.co/);
 - Implementação do front-end e back-end com Next.js e TypeScript;
 - Implementação do sistema de design conforme o protótipo do Figma;
 - Implementar um sistema de cadastro de usuários;
@@ -21,7 +21,7 @@ A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia v
 - API [PokeAPI](https://pokeapi.co/);
 - Banco de dados relacional usando Prisma e SQLite.
 
-## Funcionalidades Principais 📋
+## 📋 Funcionalidades Principais
 
 - Pesquisa de Pokémon por nome;
 - Visualização detalhada de cada Pokémon, incluindo imagem (nessa pokedex eu utilizei o gif frontal), tipos, evoluções, habilidades e descrição;
@@ -32,7 +32,7 @@ A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia v
 - Usuários autenticados podem salvar seus Pokémon favoritos e acessá-los facilmente;
 - Design responsivo para uso em dispositivos móveis e desktop.
 
-## Design e Protótipo 🎨
+## 🎨 Design e Protótipo
 
 O design da nossa Pokédex é baseado no seguinte protótipo criado no Figma:
 
