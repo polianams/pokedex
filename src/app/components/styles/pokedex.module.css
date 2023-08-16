@@ -1,0 +1,33 @@
+
+@media only screen and (max-width: 670px) {
+    .container_pokedex {
+        display: flex;
+        align-items: center;
+    }
+}
+
+.ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 24px;
+    text-transform: capitalize;
+    justify-content: center;
+}
+.container_pokedex{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 24px;
+    gap: 24px;
+}
+
+.mensagem_fim_da_linha{
+    padding-block: 24px;
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    background-color: aliceblue;
+    border: 5px solid rgb(167, 214, 255, .1);
+    border-radius: 15px;
+}
+

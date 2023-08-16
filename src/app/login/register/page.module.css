@@ -1,0 +1,81 @@
+
+.Container {
+    display: flex;
+    flex-direction: column-reverse;
+    box-shadow: -8px 8px 24px 8px rgba(0,0,0,0.1);
+    border-radius: 20px 20px 20px 20px;
+}
+
+.Container_Register {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    width: 350px;
+    height: 350px;
+}
+
+.input {
+    margin-bottom: 8px;
+    padding-left: 20px;
+    width: 100%;
+    height: 40px;
+    background: #F1F5F9;
+    color: #94A3B8;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    border-radius: 10px;
+    border: none;
+}
+
+.input:focus {
+    outline: 3px solid rgb(148, 163, 184, 0.2);
+}
+
+.li {
+    list-style-type: none;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    
+}
+.footer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    gap: 56px;
+}
+
+.button {
+    color: rgb(0, 0, 0);
+    background-color: #FAB531;
+
+    width: 300px;
+    height: 40px;
+
+    padding: 4px 8px 4px 8px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.a {
+    cursor: pointer;
+}
+
+.Image_Pokemon_Cartas {
+    border-radius: 20px 20px 0px 0px;
+    width: 350px;
+    height: 200px;
+    background-image: url("../../../../public/imagens/Login.png");
+    background-position: center;
+} 

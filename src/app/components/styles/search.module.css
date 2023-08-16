@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1020px) {
+    .input {
+        width: 675px !important;
+    }
+}
+
+@media only screen and (max-width: 670px) {
+    .input {
+        width: 335px !important;
+    }
+}
+
+
+.section {
+    padding-block: 34px;
+}
+
+.input {
+    padding-left: 20px;
+    width: 1020px;
+    height: 56px;
+    background: #F1F5F9;
+    color: #94A3B8;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    border-radius: 10px;
+    border: none;
+}
+
+.input:focus {
+    outline: 3px solid rgb(148, 163, 184, 0.2);
+}
+
+.Image {
+    display: relative;
+    margin: 0px 0px -10px -55px;
+    cursor: pointer;
+}
