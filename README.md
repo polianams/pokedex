@@ -2,12 +2,12 @@
 
 ## Descrição da atividade 📝
 
-A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este projeto abrange tanto o front-end quanto o back-end e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
+A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este é um projeto Full Stack, ou seja, abrange tanto o front-end quanto o back-end e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
 
 ## 🎯 Objetivos
 
 - Consumo da API do Pokémon para obter dados: [PokeAPI](https://pokeapi.co/);
-- Implementação do front-end com Next.js e TypeScript;
+- Implementação do front-end e back-end com Next.js e TypeScript;
 - Implementação do sistema de design conforme o protótipo do Figma;
 - Implementar um sistema de cadastro de usuários;
 - Implementar um sistema de login;
