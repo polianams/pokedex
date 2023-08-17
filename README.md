@@ -64,9 +64,8 @@ O layout da aplicação está disponível no Figma:
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="pokedex" title="Pokedex" src="assets/LightMode.png" width="400px">
-
-  <img alt="Pokedex" title="Pokedex" src="assets/DarkMode.png" width="400px">
+  <img alt="pokedex" title="Pokedex" src="assets/desktop.png" width="400px">
+  <img alt="Pokedex" title="Pokedex" src="assets/desktop-fav.png" width="400px">
 </p>
 
 ---
@@ -97,6 +96,7 @@ Este projeto é divido em duas partes:
 - Next.js;
 - Typescript;
 - API [PokeAPI](https://pokeapi.co/);
+- Prisma;
 - Banco de dados relacional usando Prisma e SQLite.
   
 ## 🤝 Contribuição
