@@ -111,7 +111,7 @@ Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novos rec
 
 ## 🧙‍♂️ Autores
 
-- Projeto Full Stack desenvolvido por: [Poliana Santos](https://www.linkedin.com/in/polianams/) ✨
+- Projeto Full Stack desenvolvido por [Poliana Santos](https://www.linkedin.com/in/polianams/) ✨
 - Layout do Figma disponibilizado por [InfoJr](https://infojr.com.br/) ✨
 
 ---
