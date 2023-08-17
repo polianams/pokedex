@@ -74,6 +74,10 @@ O layout da aplicação está disponível no Figma:
 
 ## ▶️ Como executar o projeto
 
+Este projeto é divido em duas partes:
+1. Back-end ([pasta api](https://github.com/polianams/pokedex/tree/main/src/app/api);
+2. Front-end ([pasta app](https://github.com/polianams/pokedex/tree/main/src/app))
+3. 
 ### 🛠️ Pré-requisitos
 
 - Possuir um editor de código-fonte, por exemplo VSCode ou Vim;
