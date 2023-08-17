@@ -47,7 +47,7 @@ A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia v
 - Pesquisa de Pokémon por nome;
 - Visualização detalhada de cada Pokémon, incluindo imagem (nessa pokedex eu utilizei o gif frontal), tipos, evoluções, habilidades e descrição;
 - Lista completa de todas as espécies de Pokémon disponíveis;
-- Marcação de Pokémon como "Favoritos" para fácil acesso;
+- Marcação de Pokémon como "Favoritos" para fácil acesso (disponível apenas ao logar);
 - Design responsivo para uso em dispositivos móveis e descktop com uma experiência adaptável;
 - Sistema de cadastro e login para usuários, permitindo a criação de contas individuais;
 - Usuários autenticados podem salvar seus Pokémon favoritos e acessá-los facilmente;
