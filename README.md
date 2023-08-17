@@ -44,7 +44,6 @@ A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia v
 - Design responsivo para uso em dispositivos móveis e descktop com uma experiência adaptável;
 - Sistema de cadastro e login para usuários, permitindo a criação de contas individuais;
 - Usuários autenticados podem salvar seus Pokémon favoritos e acessá-los facilmente;
-- Design responsivo para uso em dispositivos móveis e desktop.
 
 ## 🎨 Layout
 
@@ -76,14 +75,14 @@ O layout da aplicação está disponível no Figma:
 
 Este projeto é divido em duas partes:
 1. Back-end ([pasta api](https://github.com/polianams/pokedex/tree/main/src/app/api);
-2. Front-end ([pasta app](https://github.com/polianams/pokedex/tree/main/src/app))
-3. 
+2. Front-end: Desktop e Mobile ([pasta app](https://github.com/polianams/pokedex/tree/main/src/app))
+
 ### 🛠️ Pré-requisitos
 
-- Possuir um editor de código-fonte, por exemplo VSCode ou Vim;
-- Possuir o Git ou qualquer outro programa de versionamento;
-- Possuir o Node.js (versão 18.16.0 ou superior);
-- Possuir o innsomnia instalado.
+- Possuir um editor de código-fonte, por exemplo [VSCode](https://code.visualstudio.com/download) ou [Vim](https://www.vim.org/download.php);
+- Possuir o [Git](https://git-scm.com/downloads) ou qualquer outro programa de versionamento;
+- Possuir o [Node.js](https://nodejs.org/en/download/current) (versão 18.16.0 ou superior);
+- Possuir o [Insomnia](https://insomnia.rest/download) instalado.
 
 ### ⚙️ Instalação
 
