@@ -89,7 +89,7 @@ Este projeto é divido em duas partes:
 2. Navegue até o diretório do projet: `cd nome_da_pasta`;
 3. Instale as dependências: `npm install`;
 4. Para executa-lo digite no terminal: `npm run dev`;
-5. O servidor será iniciado na porta 8000.
+5. O servidor será iniciado na porta 3000.
 
 ## 🚀 Tecnologias utilizadas
 
