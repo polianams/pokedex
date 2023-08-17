@@ -18,6 +18,19 @@
   </a>
 </p>
 
+</p>
+<h1 align="center">
+    <img alt="Pokedex" title="#Pokedex" src="assets/Capa" />
+</h1>
+
+<h4 align="center"> 
+	🚧 Pokedex 🚧
+</h4>
+
+<p align="center">
+	<img alt="Status Concluído" src="https://img.shields.io/badge/STATUS-CONCLU%C3%8DDO-brightgreen">
+</p>
+
 ## 💻 Sobre o Projeto
 
 A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este é um projeto **Full Stack**, ou seja, abrange tanto o **Front-end** quanto o **Back-end** e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
