@@ -20,7 +20,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Pokedex" title="#Pokedex" src="assets/capa" />
+    <img alt="Pokedex" title="#Pokedex" src="assets/pokedex.gif" />
 </h1>
 
 <h4 align="center"> 
