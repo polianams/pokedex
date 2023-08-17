@@ -48,6 +48,24 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by InfoJr" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
+### Mobile
+
+<p align="center">
+  <img alt="Pokedex" title="Pokedex" src="assets/LightModeMobile.png" width="200px">
+
+  <img alt="Pokedex" title="Pokedex" src="assets/DarkModeMobile.png" width="200px">
+</p>
+
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="pokedex" title="Pokedex" src="assets/LightMode.png" width="400px">
+
+  <img alt="Pokedex" title="Pokedex" src="assets/DarkMode.png" width="400px">
+</p>
+
+---
+
 ## ▶️ Como executar o projeto
 
 ### 🛠️ Pré-requisitos
@@ -74,5 +92,18 @@ Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novos rec
 3. Commit suas alterações: `git commit -m 'Adicionar nova funcionalidade'`;
 4. Faça push para a branch: `git push origin my-feature`;
 5. Abra um pull request;
+
+## 🧙‍♂️ Autores
+
+- Projeto Full Stack desenvolvido por: [Poliana Santos](https://www.linkedin.com/in/polianams/) ✨
+- Layout do Figma disponibilizado por [InfoJr](https://infojr.com.br/) ✨
+
+---
+
+## 📝 Licença
+
+<!-- Este projeto esta sobe a licença [MIT](./LICENSE). -->
+
+Feito por Poliana Santos 👋🏽 [Entre em contato!](https://www.linkedin.com/in/polianams/)
 
 Divirta-se explorando a incrível jornada Pokémon com a nossa Pokédex! 🌟
