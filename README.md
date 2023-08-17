@@ -20,7 +20,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Pokedex" title="#Pokedex" src="assets/capa" />
+    <img alt="Pokedex" title="#Pokedex" src="assets/pokedex.gif" />
 </h1>
 
 <h4 align="center"> 
@@ -89,7 +89,7 @@ Este projeto é divido em duas partes:
 2. Navegue até o diretório do projet: `cd nome_da_pasta`;
 3. Instale as dependências: `npm install`;
 4. Para executa-lo digite no terminal: `npm run dev`;
-5. O servidor será iniciado na porta 8000.
+5. O servidor será iniciado na porta 3000.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -111,7 +111,7 @@ Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novos rec
 
 ## 🧙‍♂️ Autores
 
-- Projeto Full Stack desenvolvido por: [Poliana Santos](https://www.linkedin.com/in/polianams/) ✨
+- Projeto Full Stack desenvolvido por [Poliana Santos](https://www.linkedin.com/in/polianams/) ✨
 - Layout do Figma disponibilizado por [InfoJr](https://infojr.com.br/) ✨
 
 ---
