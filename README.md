@@ -20,7 +20,7 @@
 
 </p>
 <h1 align="center">
-    <img alt="Pokedex" title="#Pokedex" src="assets/Capa" />
+    <img alt="Pokedex" title="#Pokedex" src="assets/capa" />
 </h1>
 
 <h4 align="center"> 
@@ -56,9 +56,9 @@ O layout da aplicação está disponível no Figma:
 ### Mobile
 
 <p align="center">
-  <img alt="Pokedex" title="Pokedex" src="assets/LightModeMobile.png" width="200px">
-
-  <img alt="Pokedex" title="Pokedex" src="assets/DarkModeMobile.png" width="200px">
+	<img alt="Pokedex" title="Pokedex" src="assets/mobile.png" width="200px">
+	<img alt="Pokedex" title="Pokedex" src="assets/mobile-fav.png" width="200px">
+	<img alt="Pokedex" title="Pokedex" src="assets/mobile-login.png" width="200px">
 </p>
 
 ### Web
