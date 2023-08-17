@@ -35,14 +35,7 @@
 
 A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este é um projeto **Full Stack**, ou seja, abrange tanto o **Front-end** quanto o **Back-end** e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
 
-## 🚀 Tecnologias utilizadas
-
-- Next.js;
-- Typescript;
-- API [PokeAPI](https://pokeapi.co/);
-- Banco de dados relacional usando Prisma e SQLite.
-
-## 📋 Funcionalidades Principais
+## 📋 Funcionalidades
 
 - Pesquisa de Pokémon por nome;
 - Visualização detalhada de cada Pokémon, incluindo imagem (nessa pokedex eu utilizei o gif frontal), tipos, evoluções, habilidades e descrição;
@@ -96,6 +89,13 @@ O layout da aplicação está disponível no Figma:
 4. Para executa-lo digite no terminal: `npm run dev`;
 5. O servidor será iniciado na porta 8000.
 
+## 🚀 Tecnologias utilizadas
+
+- Next.js;
+- Typescript;
+- API [PokeAPI](https://pokeapi.co/);
+- Banco de dados relacional usando Prisma e SQLite.
+  
 ## 🤝 Contribuição
 
 Contribuições são bem-vindas! Se você quiser melhorar ou adicionar novos recursos a esta API, siga as etapas abaixo:
