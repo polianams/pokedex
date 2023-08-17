@@ -1,18 +1,26 @@
 # 🔍 Pokedex
 
-## 📝 Descrição da atividade
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/polianams/pokedex?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/polianams/pokedex">
+  
+  <a href="https://github.com/polianams/pokedex/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/polianams/pokedex">
+  </a>
+  
+   <a href="https://cubos.academy/](https://www.linkedin.com/in/polianams/">
+    <img alt="Feito por Poliana Santos" src="https://img.shields.io/badge/feito-por%20Poliana%20Santos-D818A5">
+   </a>
+   
+   <a href="https://github.com/polianams/pokedex/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/polianams/pokedex?style=social">
+  </a>
+</p>
+
+## 💻 Sobre o Projeto
 
 A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia virtual portátil de alta tecnologia que os treinadores Pokémon transportam para registra todas as espécies diferentes de Pokémon que são encontradas durante a sua viagem como treinadores. Este é um projeto **Full Stack**, ou seja, abrange tanto o **Front-end** quanto o **Back-end** e tem como objetivo criar uma experiência imersiva para treinadores Pokémon explorarem informações detalhadas sobre diferentes espécies de Pokémons.
-
-## 🎯 Objetivos
-
-- Consumo da API do Pokémon para obter dados [PokeAPI](https://pokeapi.co/);
-- Implementação do front-end e back-end com Next.js e TypeScript;
-- Implementação do sistema de design conforme o protótipo do Figma;
-- Implementar um sistema de cadastro de usuários;
-- Implementar um sistema de login;
-- Implementar um sistema de busca de pokemons por meio do nome do Pokemon (Logado ou não);
-- Implementar um sistema de favoritar pokemons somente quando estiver logado.
 
 ## 🚀 Tecnologias utilizadas
 
@@ -32,19 +40,22 @@ A Pokédex, também conhecida como Poké-Agenda no Brasil é uma enciclopédia v
 - Usuários autenticados podem salvar seus Pokémon favoritos e acessá-los facilmente;
 - Design responsivo para uso em dispositivos móveis e desktop.
 
-## 🎨 Design e Protótipo
+## 🎨 Layout
 
-O design da nossa Pokédex é baseado no seguinte protótipo criado no Figma:
+O layout da aplicação está disponível no Figma:
 
-[Clique Aqui para ter acesso ao link do protótipo do Figma](https://www.figma.com/file/jmmI97q80rCap7j7gGaAkz/Pokedex?type=design&node-id=0-1&t=kvsB1391Kd9bke8O-0)
+<a href="https://www.figma.com/file/jmmI97q80rCap7j7gGaAkz/Pokedex?type=design&node-id=0-1&t=kvsB1391Kd9bke8O-0">
+  <img alt="Made by InfoJr" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
+</a>
 
-## ▶️ Como Executar Este Projeto em Sua Máquina
+## ▶️ Como executar o projeto
 
 ### 🛠️ Pré-requisitos
 
 - Possuir um editor de código-fonte, por exemplo VSCode ou Vim;
 - Possuir o Git ou qualquer outro programa de versionamento;
-- Possuir o Node.js (versão 18.16.0 ou superior).
+- Possuir o Node.js (versão 18.16.0 ou superior);
+- Possuir o innsomnia instalado.
 
 ### ⚙️ Instalação
 
