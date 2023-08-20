@@ -73,7 +73,7 @@ O layout da aplicação está disponível no Figma:
 ## ▶️ Como executar o projeto
 
 Este projeto é divido em duas partes:
-1. Back-end ([pasta api](https://github.com/polianams/pokedex/tree/main/src/app/api);
+1. Back-end ([pasta api](https://github.com/polianams/pokedex/tree/main/src/app/api));
 2. Front-end: Desktop e Mobile ([pasta app](https://github.com/polianams/pokedex/tree/main/src/app))
 
 ### 🛠️ Pré-requisitos
@@ -86,7 +86,7 @@ Este projeto é divido em duas partes:
 ### ⚙️ Instalação
 
 1. Clone este repositório para sua máquina local:
-2. Navegue até o diretório do projet: `cd nome_da_pasta`;
+2. Navegue até o diretório do projeto: `cd nome_da_pasta`;
 3. Instale as dependências: `npm install`;
 4. Para executa-lo digite no terminal: `npm run dev`;
 5. O servidor será iniciado na porta 3000.
